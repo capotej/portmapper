@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/portmapper
+lib/portmapper.rb
+test/test_portmapper.rb
